@@ -1,0 +1,15 @@
+C:\Users\USER\source\repos\Project 01\indexArray\indexArray\bin\Debug\net6.0\indexArray.exe
+C:\Users\USER\source\repos\Project 01\indexArray\indexArray\bin\Debug\net6.0\indexArray.deps.json
+C:\Users\USER\source\repos\Project 01\indexArray\indexArray\bin\Debug\net6.0\indexArray.runtimeconfig.json
+C:\Users\USER\source\repos\Project 01\indexArray\indexArray\bin\Debug\net6.0\indexArray.dll
+C:\Users\USER\source\repos\Project 01\indexArray\indexArray\bin\Debug\net6.0\indexArray.pdb
+C:\Users\USER\source\repos\Project 01\indexArray\indexArray\obj\Debug\net6.0\indexArray.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\Project 01\indexArray\indexArray\obj\Debug\net6.0\indexArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\Project 01\indexArray\indexArray\obj\Debug\net6.0\indexArray.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Project 01\indexArray\indexArray\obj\Debug\net6.0\indexArray.AssemblyInfo.cs
+C:\Users\USER\source\repos\Project 01\indexArray\indexArray\obj\Debug\net6.0\indexArray.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Project 01\indexArray\indexArray\obj\Debug\net6.0\indexArray.dll
+C:\Users\USER\source\repos\Project 01\indexArray\indexArray\obj\Debug\net6.0\refint\indexArray.dll
+C:\Users\USER\source\repos\Project 01\indexArray\indexArray\obj\Debug\net6.0\indexArray.pdb
+C:\Users\USER\source\repos\Project 01\indexArray\indexArray\obj\Debug\net6.0\indexArray.genruntimeconfig.cache
+C:\Users\USER\source\repos\Project 01\indexArray\indexArray\obj\Debug\net6.0\ref\indexArray.dll

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BraekAndContinue", "BraekAndContinue\BraekAndContinue.csproj", "{7B3DD046-97F7-4210-948F-BE309B57EDCE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7B3DD046-97F7-4210-948F-BE309B57EDCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B3DD046-97F7-4210-948F-BE309B57EDCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B3DD046-97F7-4210-948F-BE309B57EDCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B3DD046-97F7-4210-948F-BE309B57EDCE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0CB5AAB0-9A56-4202-AABC-3F7EF3F1DAB0}
+	EndGlobalSection
+EndGlobal

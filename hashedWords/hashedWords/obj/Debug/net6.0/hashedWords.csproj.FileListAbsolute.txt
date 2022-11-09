@@ -1,0 +1,15 @@
+C:\Users\USER\source\repos\Project 01\hashedWords\hashedWords\bin\Debug\net6.0\hashedWords.exe
+C:\Users\USER\source\repos\Project 01\hashedWords\hashedWords\bin\Debug\net6.0\hashedWords.deps.json
+C:\Users\USER\source\repos\Project 01\hashedWords\hashedWords\bin\Debug\net6.0\hashedWords.runtimeconfig.json
+C:\Users\USER\source\repos\Project 01\hashedWords\hashedWords\bin\Debug\net6.0\hashedWords.dll
+C:\Users\USER\source\repos\Project 01\hashedWords\hashedWords\bin\Debug\net6.0\hashedWords.pdb
+C:\Users\USER\source\repos\Project 01\hashedWords\hashedWords\obj\Debug\net6.0\hashedWords.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\Project 01\hashedWords\hashedWords\obj\Debug\net6.0\hashedWords.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\Project 01\hashedWords\hashedWords\obj\Debug\net6.0\hashedWords.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Project 01\hashedWords\hashedWords\obj\Debug\net6.0\hashedWords.AssemblyInfo.cs
+C:\Users\USER\source\repos\Project 01\hashedWords\hashedWords\obj\Debug\net6.0\hashedWords.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Project 01\hashedWords\hashedWords\obj\Debug\net6.0\hashedWords.dll
+C:\Users\USER\source\repos\Project 01\hashedWords\hashedWords\obj\Debug\net6.0\refint\hashedWords.dll
+C:\Users\USER\source\repos\Project 01\hashedWords\hashedWords\obj\Debug\net6.0\hashedWords.pdb
+C:\Users\USER\source\repos\Project 01\hashedWords\hashedWords\obj\Debug\net6.0\hashedWords.genruntimeconfig.cache
+C:\Users\USER\source\repos\Project 01\hashedWords\hashedWords\obj\Debug\net6.0\ref\hashedWords.dll

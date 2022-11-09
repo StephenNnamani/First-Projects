@@ -1,0 +1,15 @@
+C:\Users\USER\source\repos\Project 01\DateFunction\DateFunction\bin\Debug\net6.0\DateFunction.exe
+C:\Users\USER\source\repos\Project 01\DateFunction\DateFunction\bin\Debug\net6.0\DateFunction.deps.json
+C:\Users\USER\source\repos\Project 01\DateFunction\DateFunction\bin\Debug\net6.0\DateFunction.runtimeconfig.json
+C:\Users\USER\source\repos\Project 01\DateFunction\DateFunction\bin\Debug\net6.0\DateFunction.dll
+C:\Users\USER\source\repos\Project 01\DateFunction\DateFunction\bin\Debug\net6.0\DateFunction.pdb
+C:\Users\USER\source\repos\Project 01\DateFunction\DateFunction\obj\Debug\net6.0\DateFunction.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\Project 01\DateFunction\DateFunction\obj\Debug\net6.0\DateFunction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\Project 01\DateFunction\DateFunction\obj\Debug\net6.0\DateFunction.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Project 01\DateFunction\DateFunction\obj\Debug\net6.0\DateFunction.AssemblyInfo.cs
+C:\Users\USER\source\repos\Project 01\DateFunction\DateFunction\obj\Debug\net6.0\DateFunction.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Project 01\DateFunction\DateFunction\obj\Debug\net6.0\DateFunction.dll
+C:\Users\USER\source\repos\Project 01\DateFunction\DateFunction\obj\Debug\net6.0\refint\DateFunction.dll
+C:\Users\USER\source\repos\Project 01\DateFunction\DateFunction\obj\Debug\net6.0\DateFunction.pdb
+C:\Users\USER\source\repos\Project 01\DateFunction\DateFunction\obj\Debug\net6.0\DateFunction.genruntimeconfig.cache
+C:\Users\USER\source\repos\Project 01\DateFunction\DateFunction\obj\Debug\net6.0\ref\DateFunction.dll

@@ -1,0 +1,15 @@
+C:\Users\USER\source\repos\Project 01\BraekAndContinue\BraekAndContinue\bin\Debug\net6.0\BraekAndContinue.exe
+C:\Users\USER\source\repos\Project 01\BraekAndContinue\BraekAndContinue\bin\Debug\net6.0\BraekAndContinue.deps.json
+C:\Users\USER\source\repos\Project 01\BraekAndContinue\BraekAndContinue\bin\Debug\net6.0\BraekAndContinue.runtimeconfig.json
+C:\Users\USER\source\repos\Project 01\BraekAndContinue\BraekAndContinue\bin\Debug\net6.0\BraekAndContinue.dll
+C:\Users\USER\source\repos\Project 01\BraekAndContinue\BraekAndContinue\bin\Debug\net6.0\BraekAndContinue.pdb
+C:\Users\USER\source\repos\Project 01\BraekAndContinue\BraekAndContinue\obj\Debug\net6.0\BraekAndContinue.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\Project 01\BraekAndContinue\BraekAndContinue\obj\Debug\net6.0\BraekAndContinue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\Project 01\BraekAndContinue\BraekAndContinue\obj\Debug\net6.0\BraekAndContinue.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Project 01\BraekAndContinue\BraekAndContinue\obj\Debug\net6.0\BraekAndContinue.AssemblyInfo.cs
+C:\Users\USER\source\repos\Project 01\BraekAndContinue\BraekAndContinue\obj\Debug\net6.0\BraekAndContinue.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Project 01\BraekAndContinue\BraekAndContinue\obj\Debug\net6.0\BraekAndContinue.dll
+C:\Users\USER\source\repos\Project 01\BraekAndContinue\BraekAndContinue\obj\Debug\net6.0\refint\BraekAndContinue.dll
+C:\Users\USER\source\repos\Project 01\BraekAndContinue\BraekAndContinue\obj\Debug\net6.0\BraekAndContinue.pdb
+C:\Users\USER\source\repos\Project 01\BraekAndContinue\BraekAndContinue\obj\Debug\net6.0\BraekAndContinue.genruntimeconfig.cache
+C:\Users\USER\source\repos\Project 01\BraekAndContinue\BraekAndContinue\obj\Debug\net6.0\ref\BraekAndContinue.dll
